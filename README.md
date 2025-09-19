@@ -27,3 +27,17 @@ Scikit-learn, XGBoost (Machine Learning)
 Matplotlib, Seaborn (Visualization)
 
 Jupyter Notebook / Spyder (Development Environment)
+
+## 📈 Results
+Successfully predicted customer churn with high accuracy.
+
+Identified key churn indicators such as contract type, tenure, and payment method.
+
+Visualizations demonstrate churn distribution and customer behavior patterns.
+
+## 🔮 Future Improvements
+Deploy as a web app or dashboard for real-time churn monitoring.
+
+Use advanced techniques like Deep Learning (LSTM, ANN) for better performance.
+
+Expand dataset to include more diverse subscription service domains.
